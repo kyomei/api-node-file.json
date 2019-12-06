@@ -1,0 +1,1 @@
+API básica feita em node com express, para consumir dados de um arquivo data.json
